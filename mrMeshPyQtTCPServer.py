@@ -1,4 +1,4 @@
- #!/usr/bin/python
+#!/data/ahummer/anaconda3/envs/mrMeshPyEnv/bin/python
 
 '''
 A TCP server in QT to handle mrVista throughput to mrMeshPy

@@ -1,4 +1,4 @@
-#!/usr/bin/python
+#!/data/ahummer/anaconda3/envs/mrMeshPyEnv/bin/python
 
 # TODO - python path - assuming condo here 
 

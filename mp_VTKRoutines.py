@@ -1,4 +1,4 @@
-#!/usr/bin/python
+#!/data/ahummer/anaconda3/envs/mrMeshPyEnv/bin/python
 
 '''
 VTK engine room for mrMeshPy viewer 

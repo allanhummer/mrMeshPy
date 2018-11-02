@@ -6,5 +6,5 @@ Mark Hymers, Andre Gouws 2017
 '''
 
 unset LD_LIBRARY_PATH
-exec /usr/bin/python "$@"
+exec /data/ahummer/anaconda3/envs/mrMeshPyEnv/bin/python "$@"
 

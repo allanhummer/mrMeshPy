@@ -1,4 +1,4 @@
-#!/usr/bin/python
+#!/data/ahummer/anaconda3/envs/mrMeshPyEnv/bin/python
 
 '''
 Command module for mrMeshPy viewer

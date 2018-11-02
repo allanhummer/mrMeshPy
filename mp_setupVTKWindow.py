@@ -1,4 +1,4 @@
-#!/usr/bin/python
+#!/data/ahummer/anaconda3/envs/mrMeshPyEnv/bin/python
 
 '''
 This module sets up a VTK window instance for each new

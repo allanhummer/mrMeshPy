@@ -1,4 +1,4 @@
-#!/usr/bin/python
+#!/data/ahummer/anaconda3/envs/mrMeshPyEnv/bin/python
 
 ## HEALTH WARNING - ALPHA CODE IN DEVELOPMENT ##
 
